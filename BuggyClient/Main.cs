@@ -15,7 +15,7 @@ namespace BuggyClient
     
     public partial class bugform : Form
     {
-        string webhook = "https://discord.com/api/webhooks/918610433701720106/l3xW8XjLettPdWo2O3QP9XZegvq5CnFKwgy-xcsCS4RxL3UTTpHIHnIA3gwh6UDu6cup";
+        string webhook = "Your webhook here";
         public bugform()
         {
             InitializeComponent();
