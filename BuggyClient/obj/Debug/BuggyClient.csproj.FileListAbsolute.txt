@@ -1,0 +1,11 @@
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\bin\Debug\BuggyClient.exe.config
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\bin\Debug\BuggyClient.exe
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\bin\Debug\BuggyClient.pdb
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\obj\Debug\BuggyClient.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\obj\Debug\BuggyClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\obj\Debug\BuggyClient.bugform.resources
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\obj\Debug\BuggyClient.Properties.Resources.resources
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\obj\Debug\BuggyClient.csproj.GenerateResource.cache
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\obj\Debug\BuggyClient.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\obj\Debug\BuggyClient.exe
+C:\Users\Awire\source\repos\Buggy\BuggyClient\BuggyClient\obj\Debug\BuggyClient.pdb
